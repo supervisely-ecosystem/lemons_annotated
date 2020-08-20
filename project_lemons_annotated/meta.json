@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "title": "kiwi",
+            "shape": "bitmap",
+            "color": "#FF0000",
+            "geometry_config": {}
+        },
+        {
+            "title": "lemon",
+            "shape": "bitmap",
+            "color": "#51C6AA",
+            "geometry_config": {}
+        }
+    ],
+    "tags": []
+}
