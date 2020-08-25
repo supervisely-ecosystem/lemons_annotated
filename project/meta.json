@@ -1,17 +1,18 @@
 {
     "classes": [
         {
+            "id": 633,
             "title": "kiwi",
             "shape": "bitmap",
-            "color": "#FF0000",
-            "geometry_config": {}
+            "color": "#FF0000"
         },
         {
+            "id": 632,
             "title": "lemon",
             "shape": "bitmap",
-            "color": "#51C6AA",
-            "geometry_config": {}
+            "color": "#51C6AA"
         }
     ],
-    "tags": []
+    "tags": [],
+    "projectType": "images"
 }
