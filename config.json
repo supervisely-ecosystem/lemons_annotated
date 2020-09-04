@@ -3,7 +3,7 @@
   "description": "Sample images project with two labeled classes (lemon, kiwi)",
   "type": "project",
   "categories": [
-    "sales"
+    "demo"
   ],
   "icon": "https://i.imgur.com/EokfMn8.png",
   "icon_cover": true
