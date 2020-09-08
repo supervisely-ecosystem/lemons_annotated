@@ -7,8 +7,8 @@
   <a href="x">Direct Download</a> |
   <a href="#statistics">Statistics</a> |
   <a href="#example-images">Examples</a> |
-  <a href="#licence-type">Licence</a> |
-  <a href="#how-to-import">How to Import</a> |
+  <a href="#license-type">License</a> |
+  <a href="#how-to-import">How to Import</a> 
 </p>
 
 ## Overview 
@@ -23,7 +23,7 @@
 `lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
 
 ## Statistics
-...
+![](./img/IMG_0748_pr.jpg)
 
 ## Example Images
 
