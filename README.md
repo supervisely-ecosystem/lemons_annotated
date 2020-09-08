@@ -30,7 +30,7 @@
 
 ## Download
 
-Direct download is available [here](x).
+Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/el464OE0vCnqiWM).
 
 ## Statistics
 
