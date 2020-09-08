@@ -1,4 +1,5 @@
-# Lemons Annotated 
+# Lemons Annotated  ![](./img/icon.jpg) 
+
 
 <p align="center">
   <a href="#pytorch-lightning-masterclass">Masterclass</a> •
