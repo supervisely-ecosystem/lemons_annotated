@@ -2,20 +2,21 @@
 
 
 <p align="center">
-  <a href="#pytorch-lightning-masterclass">Masterclass</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#docs">Docs</a> •
-  <a href="#resources">Resources</a> •
-  <a href="#community">Community</a> •
-  <a href="#faq">FAQ</a> •
+  <a href="#overview">Overview</a> |
+  <a href="#key-features">Key Features</a> |
+  <a href="#how-to-use">How To Use</a> |
+  <a href="#docs">Docs</a> |
+  <a href="#resources">Resources</a> |
+  <a href="#community">Community</a> |
+  <a href="#faq">FAQ</a> |
   <a href="#licence">Licence</a>
 </p>
+
+# Overview 
 
  `lemons_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. Direct download is available 
 [here](x).
 
-## Dataset Preview 
 ![](./img/IMG_0748_pr.jpg)
 
 ## Dataset Description 
