@@ -1,8 +1,9 @@
 
 <div align="center"> 
 
-# Lemons Annotated  ![icon](./img/icon.jpg) 
+![icon](./img/icon.jpg) 
 
+ # Lemons Annotated  
 
 <p align="center">
 
