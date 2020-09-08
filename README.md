@@ -35,7 +35,7 @@ Direct download is available [here](x).
 
 Dataset consists of 6 images with a total of 26 annotated objects. 
 
-The table below displays stattistics per calss:
+The table below displays stattistics per class:
 
 ![](./img/stats.jpg)
 
