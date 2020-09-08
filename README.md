@@ -34,6 +34,9 @@ Direct download is available [here](x).
 ## Statistics
 
 Dataset consists of 6 images with a total of 26 annotated objects. 
+
+The table below displays stattistics per calss:
+
 ![](./img/stats.jpg)
 
 ## Examples
