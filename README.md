@@ -6,8 +6,8 @@
   <a href="#description">Descriprion</a> |
   <a href="x">Direct Download</a> |
   <a href="#statistics">Statistics</a> |
-  <a href="#example">Examples</a> |
-  <a href="#licence">Licence</a> |
+  <a href="#example images">Examples</a> |
+  <a href="#licence type">Licence</a> |
   <a href="#how to import">How to Import</a> |
 </p>
 
