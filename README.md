@@ -1,9 +1,7 @@
 
-
+# Lemons Annotated  ![](./img/icon.jpg)
 
 <p align="center">
-
-# Lemons Annotated  ![](./img/icon.jpg) 
 
   <a href="#overview">Overview</a> |
   <a href="#description">Descriprion</a> |
@@ -24,6 +22,9 @@
 ## Description 
 
 `lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
+
+## Download
+...
 
 ## Statistics
 ![](./img/stats.jpg)
