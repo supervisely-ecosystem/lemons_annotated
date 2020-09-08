@@ -3,13 +3,12 @@
 
 <p align="center">
   <a href="#overview">Overview</a> |
-  <a href="#key-features">Key Features</a> |
-  <a href="#how-to-use">How To Use</a> |
-  <a href="#docs">Docs</a> |
-  <a href="#resources">Resources</a> |
-  <a href="#community">Community</a> |
-  <a href="#faq">FAQ</a> |
-  <a href="#licence">Licence</a>
+  <a href="#description">Descriprion</a> |
+  <a href="x">Direct Download</a> |
+  <a href="#statistics">Statistics</a> |
+  <a href="#example">Examples</a> |
+  <a href="#licence">Licence</a> |
+  <a href="#how to import">How to Import</a> |
 </p>
 
 ## Overview 
@@ -19,10 +18,11 @@
 
 ![](./img/IMG_0748_pr.jpg)
 
-## Dataset Description 
+## Description 
+
 `lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
 
-## Dataset Statistics
+## Statistics
 ...
 
 ## Example Images
