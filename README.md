@@ -12,7 +12,7 @@
   <a href="#licence">Licence</a>
 </p>
 
-# Overview 
+## Overview 
 
  `lemons_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. Direct download is available 
 [here](x).
