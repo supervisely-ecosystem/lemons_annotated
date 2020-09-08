@@ -8,7 +8,7 @@
 <p align="center">
 
   <a href="#overview">Overview</a> |
-  <a href="#description">Descriprion</a> |
+  <a href="#description">Description</a> |
   <a href="#download">Download</a> |
   <a href="#statistics">Statistics</a> |
   <a href="#examples">Examples</a> |
