@@ -1,6 +1,7 @@
 
 <div align="center"> 
-# Lemons Annotated  ![](./img/icon.jpg) 
+
+# Lemons Annotated  ![icon](./img/icon.jpg) 
 
 
 <p align="center">
@@ -14,29 +15,6 @@
 </p>
 </div>
 
-<div align="center">
-
-![Logo](docs/source/_images/logos/lightning_logo.svg)
-
-# PyTorch Lightning
-
-**The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.**
-
-<p align="center">
-  <a href="#pytorch-lightning-masterclass">Masterclass</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#docs">Docs</a> •
-  <a href="#resources">Resources</a> •
-  <a href="#community">Community</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#licence">Licence</a>
-</p>
-
-<!--
-[![CodeFactor](https://www.codefactor.io/repository/github/pytorchlightning/pytorch-lightning/badge)](https://www.codefactor.io/repository/github/pytorchlightning/pytorch-lightning)
--->
-</div>
 
 
 ## Overview 
