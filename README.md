@@ -36,7 +36,7 @@ Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/el
 
 Dataset consists of 6 images with a total of 26 annotated objects. 
 
-The table below displays stattistics per class:
+The table below displays statistics per class:
 
 ![](./readme_images/stats.jpg)
 
