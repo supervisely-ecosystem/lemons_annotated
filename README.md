@@ -3,7 +3,7 @@
 [here](x).
 
 ## Dataset Preview 
-![](./lemons_annotated_preview.jpg)
+![](./img/IMG_0748_pr.jpg)
 
 ## Dataset Description 
 `lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
@@ -13,7 +13,7 @@
 
 ## Example Images
 
-![](./IMG_0748.png) ![](./IMG_2084.png) ![](./IMG_4451.png) 
+![](./img/IMG_0748.png) ![](./img/IMG_2084.png) ![](./img/IMG_4451.png) 
 
 ## License Type
 ...
