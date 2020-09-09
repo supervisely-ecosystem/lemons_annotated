@@ -18,7 +18,7 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-
+![](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-annotated)
 </div>
 
 
