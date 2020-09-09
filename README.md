@@ -42,7 +42,7 @@ The table below displays statistics per class:
 
 ## Examples
 
-![](./readme_images/IMG_0748.png) ![](./readme_images/IMG_2084.png) ![](./readme_images/IMG_4451.png) 
+![](./readme_images/IMG_0748.png) ![](./readme_images/IMG_2084.png) 
 
 ## How To Import
 
