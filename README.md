@@ -39,7 +39,7 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/el464OE
 
 ## Statistics
 
-Project consists of 1 dataset with 6 images with a total of 26 annotated objects. 
+Project contains 1 dataset with 6 images in it, with a total of 26 annotated objects. 
 
 ![](https://i.imgur.com/OFpNDDc.jpg)
 
