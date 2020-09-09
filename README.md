@@ -1,7 +1,9 @@
 
 <div align="center"> 
 
-![icon](./readme_images/icon.jpg) 
+![eco](https://i.imgur.com/UdBujFN.png) 
+
+![icon](https://i.imgur.com/46jWAnc.jpg) 
 
  # Lemons Annotated  
 
@@ -25,7 +27,7 @@
 
  `lemons_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
 
-![](./readme_images/IMG_0748_pr.jpg)
+![](https://i.imgur.com/94p4Ysf.jpg)
 
 ## Description 
 
@@ -41,11 +43,11 @@ Dataset consists of 6 images with a total of 26 annotated objects.
 
 The table below displays statistics per class:
 
-![](./readme_images/stats.jpg)
+![](https://i.imgur.com/OFpNDDc.jpg)
 
 ## Examples
 
-![](./readme_images/IMG_0748.png) ![](./readme_images/IMG_2084.png) 
+![](https://i.imgur.com/wd243ip.png) ![](https://i.imgur.com/ldSWlUG.png) 
 
 ## How To Import
 
