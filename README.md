@@ -35,13 +35,11 @@
 
 ## Download
 
-Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/el464OE0vCnqiWM/download) as a .tar archive. The size of the archive is 9,57 MB.
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/el464OE0vCnqiWM/download) (9,57 MB).
 
 ## Statistics
 
-Project consists of 6 images with a total of 26 annotated objects. 
-
-The table below displays statistics per class:
+Project consists of 1 dataset with 6 images with a total of 26 annotated objects. 
 
 ![](https://i.imgur.com/OFpNDDc.jpg)
 
