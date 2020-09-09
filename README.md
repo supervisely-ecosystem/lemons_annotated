@@ -39,7 +39,7 @@ Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/el
 
 ## Statistics
 
-Dataset consists of 6 images with a total of 26 annotated objects. 
+Project consists of 6 images with a total of 26 annotated objects. 
 
 The table below displays statistics per class:
 
