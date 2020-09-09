@@ -5,7 +5,7 @@
 
 ![icon](https://i.imgur.com/46jWAnc.jpg) 
 
- # Lemons Annotated  
+ # Lemons Annotated  ![icon](https://i.imgur.com/46jWAnc.jpg) 
 
 <p align="center">
 
