@@ -1,9 +1,11 @@
 {
   "name": "Lemons (Annotated)",
-  "description": "Sample images project with two labeled classes (lemon, kiwi)",
+  "description": "6 images with annotated lemons and kiwifruits",
   "type": "project",
   "categories": [
-    "demo"
+    "labeled data",
+    "semantic segmentation",
+    "images"
   ],
   "icon": "https://i.imgur.com/EokfMn8.png",
   "icon_cover": true
