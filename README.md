@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/46jWAnc.jpg" /> 
+<img src="https://i.imgur.com/46jWAnc.jpg" width="100"/> 
 
 # Lemons Annotated  
 
@@ -17,7 +17,7 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-[![](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-annotated?style=flat)](https://github.com/supervisely-ecosystem/lemons-annotated)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-annotated)
 </div>
 
 
