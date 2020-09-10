@@ -1,9 +1,9 @@
 
 <div align="center" markdown> 
 
-![eco](https://i.imgur.com/UdBujFN.png) 
+<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-![icon](https://i.imgur.com/46jWAnc.jpg) 
+<img src="https://i.imgur.com/46jWAnc.jpg" /> 
 
 # Lemons Annotated  
 
