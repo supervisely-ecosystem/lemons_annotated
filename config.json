@@ -3,8 +3,6 @@
   "description": "6 images with annotated lemons and kiwifruits",
   "type": "project",
   "categories": [
-    "labeled data",
-    "semantic segmentation",
     "import",
     "images",
     "project"
