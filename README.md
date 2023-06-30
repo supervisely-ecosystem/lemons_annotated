@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
+<img src="media/eco.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/46jWAnc.jpg" width="100"/> 
+<img src="media/icon.jpeg" width="100"/> 
 
 # Lemons Annotated  
 
@@ -28,7 +28,7 @@
 
  `lemons_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
 
-![](https://i.imgur.com/94p4Ysf.jpg)
+![](media/ov.jpeg)
 
 ## Description 
 
@@ -42,11 +42,11 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/el464OE
 
 Project contains 1 dataset with 6 images in it, with a total of 26 annotated objects. 
 
-![](https://i.imgur.com/AI7ECrG.png)
+![](media/s1.png)
 
 ## Examples
 
-![](https://i.imgur.com/wd243ip.png) ![](https://i.imgur.com/ldSWlUG.png) 
+![](media/ex1.png) ![](media/ex2.png) 
 
 ## How To Import
 
