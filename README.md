@@ -36,7 +36,7 @@
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/el464OE0vCnqiWM/download) (9,57 MB).
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/lemons-annotated/releases/download/v1.0/project.zip) (9,57 MB).
 
 ## Statistics
 
